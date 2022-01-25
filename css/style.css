@@ -650,10 +650,11 @@ body {
 
   opacity: 0.6;
   padding: 30px;
-  padding-right: 309px;
+  padding-right: 305px;
 }
 
 .question__btn {
+  font-family: var(--ff-roboto);
   padding: 24px 45px;
   border: none;
 }
