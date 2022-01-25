@@ -682,7 +682,7 @@ body {
 .footer__text {
   font-family: var(--ff-roboto);
   font-size: 12px;
-  line-height: 17px;
+  line-height: 24px;
   letter-spacing: 0.01em;
 
   color: #fff;
