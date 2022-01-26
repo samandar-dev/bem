@@ -94,9 +94,6 @@ body {
 }
 
 .nav__link:hover {
-  font-size: 15px;
-  line-height: 18px;
-
   color: var(--color__hover);
 
   opacity: 1;
